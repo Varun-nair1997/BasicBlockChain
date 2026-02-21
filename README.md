@@ -1,7 +1,7 @@
 BasicBlockChain
 
 # BasicBlockChain
-
+#### Author: Varun Nair
 ## Overview
 
 BasicBlockChain is a simple iOS demonstration project that implements the core ideas of a blockchain using Swift.
